@@ -37,5 +37,5 @@ print(chain.broken)  # False
 
 ## Credits
 
-Implementation based on behavior observed in [Anders Brownworth's](https://github.com/anders94)
+Implementation based on behavior observed in [Anders Brownworth](https://github.com/anders94)'s
 [Blockchain Demo](https://anders.com/blockchain/)

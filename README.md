@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-```python
+```pycon
 >>> import block
 >>> my_block = block.Block('some data')
 >>> my_block

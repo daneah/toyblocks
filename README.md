@@ -34,3 +34,8 @@ chain.repair()
 
 print(chain.broken)  # False
 ```
+
+## Credits
+
+Implementation based on behavior observed in [Anders Brownworth's](https://github.com/anders94)
+[Blockchain Demo](https://anders.com/blockchain/)
